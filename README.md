@@ -1,2 +1,1 @@
-dHJvamFuOi8vN2Q1YjY1NTItNWMxZC00NmQxLTlmZjQtYjQ2Mzk5MzQzMDhjQGlkLXVuaW5ldDMud2Mtd2Via3V5LndlYi5pZDo0NDM/cGF0aD0lMkZ0cm9qYW4mc2VjdXJpdHk9dGxzJmhvc3Q9aWQtdW5pbmV0My53Yy13ZWJrdXkud2ViLmlkJnR5cGU9d3Mmc25pPWlkLXVuaW5ldDMud2Mtd2Via3V5LndlYi5pZCNhcnlhYQ==;
 trojan://7d5b6552-5c1d-46d1-9ff4-b4639934308c@id-uninet3.wc-webkuy.web.id:443?path=%2Ftrojan&security=tls&host=id-uninet3.wc-webkuy.web.id&type=ws&sni=id-uninet3.wc-webkuy.web.id#aryaa
